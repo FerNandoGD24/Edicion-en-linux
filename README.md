@@ -1,5 +1,5 @@
 # Aviso
-este repositorio es únicamente un copia y pega de 2 repositorios, esto lo hice para uso personal y también como respaldo en caso de que se deje de dar soporte a uno de los programas
+este repositorio es únicamente un copia y pega de 2 repositorios, esto lo hice para uso personal y también como respaldo en caso de que se deje de dar soporte a uno de los programas (ninguno de estos proyectos es mio)
 
 ---
 [Affinity](<https://github.com/ryzendew/AffinityOnLinux>) & [LinOffice](<https://github.com/eylenburg/linoffice>)
