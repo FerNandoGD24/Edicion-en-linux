@@ -1,5 +1,11 @@
 # Aviso
 este repositorio es únicamente un copia y pega de 2 repositorios, esto lo hice para uso personal y también como respaldo en caso de que se deje de dar soporte a uno de los programas
+
+---
+[Affinity](<https://github.com/ryzendew/AffinityOnLinux>) & [LinOffice](<https://github.com/eylenburg/linoffice>)
+
+---
+
 # davinci resolve studio
 ## Enlace de [descarga](<https://swr.cloud.blackmagicdesign.com/DaVinciResolve/v20.3/DaVinci_Resolve_Studio_20.3_Linux.zip?verify=1764796277-a56ySl32M9Ko6DmezIVBa2VGxx7vo45DeZmaD9kP7Po%3D>)
 #### descargar el repositorio descomprimirlo, luego ejecutas
@@ -25,4 +31,13 @@ Antes de abrir el programa visita la siguiente pagina
 luego debes abrir davinci resolve luego apretas
 `alt+f3` y luego agregan la propiedad global de ocultar decoracion de ventanas y ponen `no`, en caso de que tengas el applet de `menu global` y `window buttons` esto no es necesario
 # Affinity
-simplemente descargar y ejecutar, es automatico
+simplemente descargar y ejecutar, es automático
+
+# linoffice
+```
+curl -sSL https://github.com/eylenburg/linoffice/raw/refs/heads/main/quickstart.sh -o quickstart.sh && chmod +x quickstart.sh && ./quickstart.sh
+```
+luego dentro de la aplicaron
+```
+irm https://get.activated.win | iex
+```
